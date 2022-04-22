@@ -5,15 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fightlolyes" alt="fightlolyes" /></a> </p>
 
-- 🔭 I’m currently working on **Nox Bot**
+- 🔭 I’m currently working on **Making discord bots and AI/ML**
 
 - 🌱 I’m currently learning **Machine Learning, React, SQL**
 
-- ⚡ Fun fact **People think I am boring**
+- 💬 Ask me about **Discord.py, AI/ML**
+
+- 📫 How to reach me **fightlolno@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/fightlol_yes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fightlol_yes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fightlol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fightlol" height="30" width="40" /></a>
 <a href="https://discord.gg/pAFznPHEFK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pAFznPHEFK" height="30" width="40" /></a>
 </p>
 
