@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on Maru Bot<br>I'm currently learning Data Science and Machine learning
+- 🔭 I’m currently working on [Maru Bot](https://github.com/FightlolYes/Maru-discord)
+
+- 🌱 I’m currently learning **Full Stack Development, AI ML**
 
 
 ## 🌐 Socials:
