@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Maru Bot](https://discord.com/api/oauth2/authorize?client_id=976843083960418327&permissions=1533302664439&scope=bot)
+- 🔭 I’m currently working on [Maru Bot](https://github.com/FightlolYes/Maru-discord)
 
 - 🌱 I’m currently learning **Full Stack Development, AI ML**
 
