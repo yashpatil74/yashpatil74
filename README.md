@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Maru Bot](https://github.com/FightlolYes/Maru-discord)
+- 🔭 I’m currently working on [Maru Bot](https://github.com/FightlolYes/Maru)
 
 - 🌱 I’m currently learning **Full Stack Development, AI ML**
 
