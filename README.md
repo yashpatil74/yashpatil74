@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Maru Bot]
+- 🔭 I’m currently working on Maru Bot
 
 - 🌱 I’m currently learning **Full Stack Development, AI ML**
 
