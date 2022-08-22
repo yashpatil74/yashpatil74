@@ -1,3 +1,5 @@
+<img src="https://dcbadge.vercel.app/api/shield/467631169358528513"/>
+
 # 💫 About Me:
 - 🔭 I’m currently working on [Maru Bot](https://github.com/FightlolYes/MaruBot)
 
