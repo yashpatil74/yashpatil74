@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Maru Bot](https://github.com/FightlolYes/MaruBot) and (Collatz Conjecture)[https://github.com/FightlolYes/collatz-conjecture]:D
+- 🔭 I’m currently working on [Maru Bot](https://github.com/FightlolYes/MaruBot) and (Collatz Conjecture)[https://github.com/FightlolYes/collatz-conjecture] D
 
 - 🌱 I’m currently learning **Full Stack Development, AI ML**
 
