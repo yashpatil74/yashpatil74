@@ -38,8 +38,9 @@ A passionate developer from India, I am currently studying computer science at M
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FightlolYes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FightlolYes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://wakatime.com/share/@e3df70bf-a8b9-45be-a648-20188b9e431d/a13b7c43-1474-4d31-ba15-39515911dbd1.png) 
-![](https://wakatime.com/share/@e3df70bf-a8b9-45be-a648-20188b9e431d/6d4e595e-c45d-4ccb-ae06-4b68b10779ad.png)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FightlolYes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
