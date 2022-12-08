@@ -5,11 +5,12 @@
 
 <h3><i>Computer Science student at <a src="https://mitwpu.edu.in">MIT WPU</a></i><img src="https://media4.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=ecf05e478xcwwhpisaola0l47dvbmhkydu1uq0iwkeoh542e&rid=giphy.gif&ct=s" width="40"></h3>
 
-<h3><i>Indie Python and Game developer <img src="https://media1.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vp79kvmdetlkih5rdvrkuwx75tipxdm0sjcu6xau&rid=giphy.gif&ct=s" width="60"></i></h3> <br>
+<h3><i>Indie Python and Game developer <img src="https://media1.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vp79kvmdetlkih5rdvrkuwx75tipxdm0sjcu6xau&rid=giphy.gif&ct=s" width="50"></i></h3> <br>
 
 [![GitHub Fightlol](https://img.shields.io/github/followers/FightlolYes?style=social)](https://github.com/FightlolYes)
 [![GitHub Fightlol](https://img.shields.io/github/stars/FightlolYes?style=social)](https://github.com/FightlolYes)
 [![Twitter Fightlol](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFightlolYes)](https://twitter.com/FightlolYes)
+
 
 <br>
 
@@ -23,6 +24,7 @@ const Yash = {
 
 }
 ```
+
 <br>
 
 # My Coding Stats <img src="https://media4.giphy.com/media/v5JAa3yP8j8vC3mJjw/giphy.gif?cid=ecf05e4797vnhl9079p0tr5kk5yxii4ln778yeg1ea4x7gnh&rid=giphy.gif&ct=s" width="40"></i></h3> <br>
@@ -39,5 +41,6 @@ Python   15 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <!--END_SECTION:waka-->
 
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=FightlolYes&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
