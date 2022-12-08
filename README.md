@@ -8,7 +8,7 @@ A passionate developer from India, I am currently studying computer science at M
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/T4eEwB8TQu) 
-[![Instagram](https://cdn.discordapp.com/attachments/884050669546373143/1050347533500682300/image.png)=250x250](https://instagram.com/fightlol_yes) 
+[![Instagram](https://cdn.discordapp.com/attachments/884050669546373143/1050347533500682300/image.png =250x250)](https://instagram.com/fightlol_yes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-patil-dev) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FightlolYes) 
 
