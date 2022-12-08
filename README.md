@@ -3,7 +3,7 @@
 <!-- <img align='right' src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" width="300">
 -->
 
-<h3><i>Computer Science student at <a src=https://mitwpu.edu.in>MIT WPU</a></i><img src="https://media4.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=ecf05e478xcwwhpisaola0l47dvbmhkydu1uq0iwkeoh542e&rid=giphy.gif&ct=s" width="40"></h3>
+<h3><i>Computer Science student at <a src="https://mitwpu.edu.in">MIT WPU</a></i><img src="https://media4.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=ecf05e478xcwwhpisaola0l47dvbmhkydu1uq0iwkeoh542e&rid=giphy.gif&ct=s" width="40"></h3>
 
 <h3><i>Indie Python and Game developer <img src="https://media1.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vp79kvmdetlkih5rdvrkuwx75tipxdm0sjcu6xau&rid=giphy.gif&ct=s" width="60"></i></h3> <br>
 
