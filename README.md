@@ -27,7 +27,7 @@ const Yash = {
 
 <br>
 
-# My Coding Stats <img src="https://media4.giphy.com/media/v5JAa3yP8j8vC3mJjw/giphy.gif?cid=ecf05e4797vnhl9079p0tr5kk5yxii4ln778yeg1ea4x7gnh&rid=giphy.gif&ct=s" width="40"></i></h3> <br>
+# My Coding Stats <img src="https://media.tenor.com/jZ44aF2BaNkAAAAi/cat-peek-peek.gif" width="40"></i></h3> <br>
 
 <!--START_SECTION:waka-->
 
