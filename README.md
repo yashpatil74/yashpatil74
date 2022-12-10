@@ -1,11 +1,14 @@
-# Hi! I am Yash Patil <img src="https://media0.giphy.com/media/Y2ga690q1esYpcHPas/giphy.gif?cid=ecf05e474j950tg773tiertqmmgtzynpt7i0ewx9fac3rrm6&rid=giphy.gif&ct=s" width="50">
+# Hi! I am Yash Patil  <img src="https://media0.giphy.com/media/Y2ga690q1esYpcHPas/giphy.gif?cid=ecf05e474j950tg773tiertqmmgtzynpt7i0ewx9fac3rrm6&rid=giphy.gif&ct=s" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer;Game+developer;Full+stack+web;Human.)](https://git.io/typing-svg)
+
 
 <!-- <img align='right' src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" width="300">
 -->
 
-<h3><i>Computer Science student at <a src="https://mitwpu.edu.in">MIT WPU</a></i><img src="https://media4.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=ecf05e478xcwwhpisaola0l47dvbmhkydu1uq0iwkeoh542e&rid=giphy.gif&ct=s" width="40"></h3>
+### <i>Computer Science student at <a src="https://mitwpu.edu.in">MIT WPU</a></i><img src="https://media4.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=ecf05e478xcwwhpisaola0l47dvbmhkydu1uq0iwkeoh542e&rid=giphy.gif&ct=s" width="40">
 
-<h3><i>Indie Python, Full Stack Web, and Game developer <img src="https://media1.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vp79kvmdetlkih5rdvrkuwx75tipxdm0sjcu6xau&rid=giphy.gif&ct=s" width="50"></i></h3> <br>
+### <i>Indie Python and Game developer <img src="https://media1.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47vp79kvmdetlkih5rdvrkuwx75tipxdm0sjcu6xau&rid=giphy.gif&ct=s" width="50"></i> 
+
+<br>
 
 [![GitHub Fightlol](https://img.shields.io/github/followers/FightlolYes?style=social)](https://github.com/FightlolYes)
 [![GitHub Fightlol](https://img.shields.io/github/stars/FightlolYes?style=social)](https://github.com/FightlolYes)
