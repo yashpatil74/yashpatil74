@@ -32,12 +32,12 @@ const Yash = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 08 December 2022
+From: 06 December 2022 - To: 09 December 2022
 
 Total Time: 2 hrs 6 mins
 
-Markdown     1 hr 15 mins    >>>>>>>>>>>>>>>----------   59.41 %
-Python       50 mins         >>>>>>>>>>---------------   40.29 %
+Markdown     1 hr 15 mins    >>>>>>>>>>>>>>>----------   59.33 %
+Python       51 mins         >>>>>>>>>>---------------   40.37 %
 JSON         0 secs          -------------------------   00.29 %
 Git Config   0 secs          -------------------------   00.01 %
 ```
