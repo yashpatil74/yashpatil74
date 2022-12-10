@@ -1,4 +1,6 @@
-# Hi! I am Yash Patil  <img src="https://media0.giphy.com/media/Y2ga690q1esYpcHPas/giphy.gif?cid=ecf05e474j950tg773tiertqmmgtzynpt7i0ewx9fac3rrm6&rid=giphy.gif&ct=s" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer;Game+developer;Full+stack+web;Human.)](https://git.io/typing-svg)
+# Hi! I am Yash Patil  <img src="https://media0.giphy.com/media/Y2ga690q1esYpcHPas/giphy.gif?cid=ecf05e474j950tg773tiertqmmgtzynpt7i0ewx9fac3rrm6&rid=giphy.gif&ct=s" width="50"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer;Game+developer;Full+stack+web;Human.)](https://git.io/typing-svg)
 
 
 <!-- <img align='right' src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" width="300">
