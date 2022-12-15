@@ -23,8 +23,9 @@
 const Yash = {
 
   languages: [Python, HTML, CSS, Javascript, C, C++, C#],
+  libraries: [Py-cord, Pandas, Numpy, Scikit-learn],
   hosting: [AWS, Azure, Firebase, Google Cloud, Heroku, Oracle],
-  frameWorks: [Bootstrap, Django, Node.js, NPM, .NET, Jquery],
+  frameWorks: [PyTorch, Bootstrap, Django, Node.js, NPM, .NET, Jquery],
   databases: [MongoDB, MySQL, SQLITE],
 
 }
