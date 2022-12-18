@@ -33,25 +33,6 @@ const Yash = {
 
 <br>
 
-# My Coding Stats <img src="https://media.tenor.com/jZ44aF2BaNkAAAAi/cat-peek-peek.gif" width="40"></i></h3> <br>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 06 December 2022 - To: 17 December 2022
-
-Total Time: 4 hrs 11 mins
-
-Python       1 hr 59 mins    >>>>>>>>>>>>-------------   47.48 %
-Markdown     1 hr 20 mins    >>>>>>>>-----------------   32.16 %
-HTML         14 mins         >------------------------   05.81 %
-CSS          14 mins         >------------------------   05.58 %
-Text         9 mins          >------------------------   03.60 %
-Git Config   8 mins          >------------------------   03.26 %
-```
-
-<!--END_SECTION:waka-->
-
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=FightlolYes&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
