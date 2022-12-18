@@ -33,6 +33,10 @@ const Yash = {
 
 <br>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=FightlolYes&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
