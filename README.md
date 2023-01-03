@@ -8,7 +8,7 @@
 
 ### <i>Computer Science student at <a src="https://mitwpu.edu.in">MIT WPU</a></i>
 
-### <i>Indie Python and Game developer</i> 
+### <i>Indie Python, Full stack web, and Game developer</i> 
 
 <br>
 
