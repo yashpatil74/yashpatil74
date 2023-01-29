@@ -36,16 +36,16 @@ const Yash = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 27 January 2023
+From: 06 December 2022 - To: 28 January 2023
 
-Total Time: 30 hrs 29 mins
+Total Time: 32 hrs 36 mins
 
-JavaScript   11 hrs 4 mins   >>>>>>>>>----------------   36.34 %
-EJS          5 hrs 25 mins   >>>>---------------------   17.77 %
-CSS          4 hrs 21 mins   >>>>---------------------   14.32 %
-Python       2 hrs 45 mins   >>-----------------------   09.06 %
-HTML         1 hr 56 mins    >>-----------------------   06.38 %
-C++          1 hr 44 mins    >------------------------   05.73 %
+JavaScript   11 hrs 4 mins   >>>>>>>>-----------------   33.98 %
+EJS          5 hrs 25 mins   >>>>---------------------   16.62 %
+Python       4 hrs 44 mins   >>>>---------------------   14.53 %
+CSS          4 hrs 21 mins   >>>----------------------   13.39 %
+HTML         1 hr 56 mins    >------------------------   05.97 %
+C++          1 hr 44 mins    >------------------------   05.36 %
 ```
 
 <!--END_SECTION:waka-->
