@@ -1,4 +1,4 @@
-# Hi! I am Yash Patil  <img src="https://media0.giphy.com/media/Y2ga690q1esYpcHPas/giphy.gif?cid=ecf05e474j950tg773tiertqmmgtzynpt7i0ewx9fac3rrm6&rid=giphy.gif&ct=s" width="50"> 
+# Hi! I am Yash Patil
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer;Game+developer;Full+stack+web;Human.)](https://git.io/typing-svg)-->
 
@@ -14,20 +14,16 @@
 
 [![GitHub Fightlol](https://img.shields.io/github/followers/FightlolYes?style=social)](https://github.com/FightlolYes)
 [![GitHub Fightlol](https://img.shields.io/github/stars/FightlolYes?style=social)](https://github.com/FightlolYes)
-[![Twitter Fightlol](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFightlolYes)](https://twitter.com/FightlolYes)
 
 
 <br>
 
 ```javascript
 const Yash = {
-
-  languages: [Python, HTML, CSS, Javascript, C, C++, C#],
-  libraries: [Py-cord, Pandas, Numpy, Scikit-learn, Jquery],
-  hosting: [AWS, Azure, Firebase, Google Cloud, Heroku, Oracle],
-  frameWorks: [PyTorch, Bootstrap, Django, Node.js, NPM, .NET],
-  databases: [MongoDB, MySQL, SQLITE],
-
+    languages: [JavaScript, HTML, CSS, C, C++, C#],
+    libraries_framework: [Bootstrap, NodeJS, Express, Pandas, Numpy, Scikit-learn],
+    DB: [MongoDB, MySQL, SQLite],
+    SAAS: [AWS, Firebase, Heroku, Google Cloud, Oracle],
 }
 ```
 
