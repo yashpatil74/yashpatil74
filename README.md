@@ -6,9 +6,9 @@
 <!-- <img align='right' src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" width="300">
 -->
 
-### <i>Computer Science student at <a src="https://mitwpu.edu.in">MIT WPU</a></i>
+### Computer Science student at MIT WPU
 
-### <i>Indie Python, Full stack web, and Game developer</i> 
+### I am a full stack web, python and game developer 
 
 <br>
 
