@@ -8,7 +8,8 @@
 
 ## Projects
 
-- #### [LogOrbit](https://www.npmjs.com/package/logorbit) - LogOrbit is a simple and lightweight logging library for Node.JS applications. 
+- #### [LogOrbit](https://www.npmjs.com/package/logorbit) - LogOrbit is a simple and lightweight logging library for Node.JS applications.
+- #### [BinVisGen](https://github.com/FightlolYes/BinVisGen) (Under developement) - BinVisGen is a powerful npm package that seamlessly transforms binary data into captivating visual content
 
 <br>
 
