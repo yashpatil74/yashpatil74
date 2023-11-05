@@ -33,7 +33,7 @@ const Yash = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2022 - To: 03 November 2023
+From: 06 December 2022 - To: 04 November 2023
 
 Total Time: 164 hrs 26 mins
 
