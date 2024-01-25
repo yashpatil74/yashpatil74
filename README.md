@@ -8,8 +8,7 @@
 
 ## Projects
 
-- #### [LogOrbit](https://www.npmjs.com/package/logorbit) - LogOrbit is a simple and lightweight logging library for Node.JS applications.
-- #### [ShadowCipher](https://github.com/FightlolYes/ShadowCipher) (Under developement) - Easy-to-use encryption and decryption functions for securing sensitive data
+- #### [Stratum](https://github.com/StratumCore) - Stratum is a free minecraft server management software for servers running on your local network
 
 <br>
 
