@@ -8,7 +8,7 @@
 
 ## Projects
 
-- #### [Stratum](https://github.com/StratumCore) - Stratum is a free minecraft server management software for servers running on your local network
+- #### [Stratum](https://github.com/FightlolYes/Stratum) - Stratum is a free minecraft server management software for servers running on your local network
 
 <br>
 
