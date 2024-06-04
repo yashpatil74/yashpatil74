@@ -12,8 +12,8 @@
 
 <br>
 
-[![GitHub Fightlol](https://img.shields.io/github/followers/FightlolYes?style=social)](https://github.com/FightlolYes)
-[![GitHub Fightlol](https://img.shields.io/github/stars/FightlolYes?style=social)](https://github.com/FightlolYes)
+[![GitHub yashpatil74](https://img.shields.io/github/followers/yashpatil74?style=social)](https://github.com/yashpatil74)
+[![GitHub yashpatil74](https://img.shields.io/github/stars/yashpatil74?style=social)](https://github.com/yashpatil74)
 
 
 <br>
