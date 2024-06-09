@@ -8,7 +8,7 @@
 
 ## Projects
 
-- #### [Stratum](https://github.com/FightlolYes/Stratum) - Stratum is a free minecraft server management software for servers running on your local network
+- #### [Aegis](https://github.com/orgs/Aegis-Site/repositories) - Aegis allows you to scan your files for viruses effortlessly
 
 <br>
 
