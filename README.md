@@ -9,7 +9,7 @@
 ## Projects
 
 - #### [Aegis](https://github.com/orgs/Aegis-Site/repositories) - Aegis allows you to scan your files for viruses effortlessly
-- ### [Wildfire Detection](https://github.com/yashpatil74/final-year) - Training Lightweight Models for deployment on Edge Devices
+- #### [Wildfire Detection](https://github.com/yashpatil74/final-year) - Training Lightweight Models for deployment on Edge Devices
 
 <br>
 
