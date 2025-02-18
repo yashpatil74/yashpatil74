@@ -21,10 +21,10 @@
 
 ```javascript
 const Yash = {
-    languages: [JavaScript, HTML, CSS, C, C++, C#],
-    libraries_framework: [Bootstrap, NodeJS, Express, Pandas, Numpy, Scikit-learn],
+    languages: [JavaScript, Golang, Python, C++, C#],
+    libraries_framework: [NodeJS, Express, Pandas, Numpy, Pytorch],
     DB: [MongoDB, MySQL, SQLite],
-    SAAS: [AWS, Firebase, Heroku, Google Cloud, Oracle],
+    SAAS: [AWS, Google Cloud, Oracle],
 }
 ```
 
