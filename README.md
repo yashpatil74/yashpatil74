@@ -35,9 +35,9 @@ const Yash = {
 ```txt
 From: 06 December 2022 - To: 21 May 2026
 
-Total Time: 655 hrs 47 mins
+Total Time: 655 hrs 48 mins
 
-Go                154 hrs 8 mins        >>>>>>-------------------   23.51 %
+Go                154 hrs 9 mins        >>>>>>-------------------   23.51 %
 JavaScript        124 hrs 45 mins       >>>>>--------------------   19.02 %
 Python            81 hrs 20 mins        >>>----------------------   12.40 %
 TypeScript        73 hrs 55 mins        >>>----------------------   11.27 %
